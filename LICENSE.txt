@@ -1,5 +1,5 @@
-Copyright (c) 2024, Kartik Kumar
+Copyright (c) 2024, Fried Monkey Co.
 
 All rights reserved.
 
-The reproduction, distribution, display, or transmission of the content of this project is strictly prohibited, unless authorized by Kartik Kumar. The project, including all files and content contained within it, cannot be copied and/or distributed without the express permission of Kartik Kumar.
+The reproduction, distribution, display, or transmission of the content of this project is strictly prohibited, unless authorized by Fried Monkey Co. The project, including all files and content contained within it, cannot be copied and/or distributed without the express permission of Fried Monkey Co.
